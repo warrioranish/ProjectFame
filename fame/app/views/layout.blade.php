@@ -65,7 +65,7 @@
 	@include('header')
 	@yield('content')
 
-	@include('footer')
+	@include('Footer')
 
 			<!-- Js File -->
 
