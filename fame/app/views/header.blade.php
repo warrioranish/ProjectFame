@@ -2,7 +2,7 @@
 		<header>
 			<div class="container-fluid top_header">
 				<div class="container">
-					<p class="float_left">Welcome to Me Financial Services, we have over 12 years of expertise</p>
+					<p class="float_left">Welcome to Fame International , we have over 12 years of expertise</p>
 					<div class="float_right">
 						<ul>
 							<li><a href=""><i class="fa fa-facebook"></i></a></li>
@@ -19,10 +19,10 @@
 					</div>
 				</div> <!-- end container -->
 			</div><!-- end top_header -->
-			<div class="bottom_header top-bar-gradient">
+			<div class="bottom_header top-bar-gradient" style="background: -o-linear-gradient(bottom-right, #0C0C0C, white); background: -moz-linear-gradient(bottom-right, #0C0C0C, white); background: linear-gradient(to bottom right, #0C0C0C, white);">
 				<div class="container clear_fix">
 					<div class="float_left logo">
-						<a href="index.html">
+						<a href="{{url('home')}}">
 							<img src="assets/images/logo.png" alt="Me Finance">
 						</a>
 					</div>
@@ -32,7 +32,7 @@
 								<span class=" icon icon-Pointer"></span>							
 							</div>
 							<div class="content-box">
-								<p> 13005 Greenville Avenue <br><span>California, TX 70240</span></p>
+								<p> Nepal Pokhara-5<br>Zero KM(Nirmal Shanti Niwas)</p>
 							</div>
 						</div>
 						<div class="top-info">
@@ -40,7 +40,7 @@
 								<span class="separator icon icon-Phone2"></span>							
 							</div>
 							<div class="content-box">
-								<p>+ (1800) 456 7890 <br><span>info@mefinance.com</span></p>
+								<p>Phone: 061-530819, 520010 <br>Mob: 9856039322</p>
 							</div>
 						</div>
 						<div class="top-info">
@@ -48,7 +48,7 @@
 								<span class="separator icon icon-Timer"></span>
 							</div>
 							<div class="content-box">
-								<p>Mon - Sat 9.00 - 19.00 <br><span>Sunday Closed</span></p>
+								<p>Mon - Sat 9:00 - 5:00 <br>Sunday Closed</p>
 							</div>
 						</div>
 					</div>
@@ -61,7 +61,7 @@
 			<div class="container">
 				<nav class="clearfix">
 					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header clearfix">
+					<div class="navbar-header clearfix" styl>
 				      <button type="button" class="navbar-toggle collapsed">
 				        <span class="sr-only">Toggle navigation</span>
 				        <span class="fa fa-th fa-2x"></span>
@@ -89,24 +89,8 @@
 									</ul>
 								</div>
 							</li>
-							<li class="arrow_down" ><a href="{{url('#')}}">Pages</a>
+							<li class="arrow_down" ><a href="{{url('Projects')}}">Study Abroad</a>
 								<div class="sub-menu">
-									<ul>
-										<li><a href="{{url('404page')}}">404 Page</a></li>
-										<li><a href="{{url('nosearchresult')}}">No Search Result</a></li>
-										<li><a href="{{url('searchresult')}}">Search Results</a></li>
-										<li><a href="{{url('faq')}}">FAQ</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="arrow_down" ><a href="{{url('projects')}}">Projects</a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="{{url('portfolio2')}}">Portfolio Two</a></li>
-										<li><a href="{{url('portfolio3')}}">Portfolio Three</a></li>
-										<li><a href="{{url('portfolio4')}}">Portfolio Four</a></li>
-										<li><a href="{{url('portfolio5')}}">Portfolio Five</a></li>
-									</ul>
 								</div>
 							</li>
 							<li class="arrow_down" ><a href="{{url('blog')}}">Blogs</a>
@@ -114,18 +98,18 @@
 									<ul>
 										<li><a href="{{url('blog')}}">Blog Left Bar</a></li>
 										<li><a href="{{url('blogrightbar')}}">Blog Right Bar</a></li>
-										<li><a href="{{url('blogsinglecol')}}">T H E M E L O C K . C O M</a></li>
 										<li><a href="{{url('blog2col')}}">Blog Two Col</a></li>
 										<li><a href="{{url('blogdetails')}}">Blog Details</a></li>
 									</ul>
 								</div>
 							</li>
-							<li class="arrow_down" ><a href="{{url('shop')}}">Shop</a>
+							<li class="arrow_down" ><a href="{{url('gallery')}}">Gallery</a>
 								<div class="sub-menu">
 									<ul>
-										<li><a href="{{url('productdetails')}}">Product Details</a></li>
-										<li><a href="{{url('cartpage')}}">Cart Page</a></li>
-										<li><a href="{{url('checkoutpage')}}">Checkout Page</a></li>
+										<li><a href="{{url('portfolio2')}}">Gallery1</a></li>
+										<li><a href="{{url('portfolio3')}}">Gallery2</a></li>
+										<li><a href="{{url('portfolio4')}}">Gallery3</a></li>
+										<li><a href="{{url('portfolio5')}}">Gallery4</a></li>
 									</ul>
 								</div>
 							</li>

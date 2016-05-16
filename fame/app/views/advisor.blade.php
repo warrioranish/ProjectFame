@@ -30,7 +30,7 @@
 				<div class="container">
 					<div class="row advisor_profile caption-style-3">
 						<div class="col-lg-3 col-md-3 col-sm-6 profile">
-							<img class="img-responsive" src="images/8.jpg" alt="images">
+							<img class="img-responsive" src="assets/images/8.jpg" alt="images">
 							<div class="caption_bg">
 								<a href="">
 									<h4>Tim Cock</h4>

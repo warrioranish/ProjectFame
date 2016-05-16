@@ -153,7 +153,7 @@
 		<section class="container-fluid consultation">
 			<div class="container">
 				<p>If you have any querry for related investment  ... We are available</p>
-				<a href="">Contact us <i class="fa fa-arrow-circle-right"></i></a>
+				<a href="{{url('contactus')}}">Contact us <i class="fa fa-arrow-circle-right"></i></a>
 			</div>
 		</section> <!-- End consultation -->
 <!-- ============ /free consultation ================ -->

@@ -767,7 +767,7 @@ header .bottom_header .address .top-info .icon-box span:after {
 
 /*====== Who we are =========*/
 .we_are .left_side{
-	background: url(../../images/5.jpg) no-repeat right;
+	background: url(../../images/whoweare.jpg) no-repeat right;
 	background-size: cover;
 	height:510px;
 	width:50%;
@@ -1020,7 +1020,7 @@ header .bottom_header .address .top-info .icon-box span:after {
 }
 /*=============Small business========*/
 .small_business_sec {
-	background: url(../../images/sm-bg.jpg) no-repeat center;
+	background: url(../../images/smallbusiness.jpg) no-repeat center;
 	background-color: #23252a;
 	height: 355px;
 	position: relative;

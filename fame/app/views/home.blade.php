@@ -6,7 +6,7 @@
 		<div id="slider1" class="rev_slider"  data-version="5.0">
 			<ul>
 				<li data-transition="fade">
-					<img src="assets/images/slides/1.jpg"  alt="">
+					<img src="assets/images/slides/sliderimage1.jpg"  alt="">
 					<div class="tp-caption sfb tp-resizeme banner-h1" 
 				        data-x="left" data-hoffset="380" 
 				        data-y="top" data-voffset="290" 
@@ -59,7 +59,7 @@
 				    </div>
 				</li>
 				<li data-transition="fade">
-					<img src="images/slides/2.jpg"  alt="">
+					<img src="assets/images/slides/sliderimage2.jpg"  alt="">
 					<div class="tp-caption sfb tp-resizeme banner-h1" 
 				        data-x="left" data-hoffset="380" 
 				        data-y="top" data-voffset="290" 
@@ -121,14 +121,14 @@
 				<div class="row welcome welcome_details">
 					<div class="col-lg-6 col-md-12">
 						<div class="welcome_item">
-							<img src="assets/images/1.jpg" alt="images">
+							<img src="assets/images/wods1.jpg" alt="images">
 							<div class="welcome_info">
 								<h3>Investment Planning</h3>
 								<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
 							</div>
 						</div>
 						<div class="welcome_item welcome_item_bottom">
-							<img src="assets/images/2.jpg" alt="images">
+							<img src="assets/images/wods2.jpg" alt="images">
 							<div class="welcome_info">
 								<h3>Saving & Investments</h3>
 								<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
@@ -137,14 +137,14 @@
 					</div>
 					<div class="col-lg-6 col-md-12 bottom_row">
 						<div class="welcome_item">
-							<img src="assets/images/3.jpg" alt="images">
+							<img src="assets/images/wods3.jpg" alt="images">
 							<div class="welcome_info">
 								<h3>Mutual Funds</h3>
 								<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
 							</div>
 						</div>
 						<div class="welcome_item welcome_item_bottom">
-							<img src="assets/images/4.jpg" alt="images">
+							<img src="assets/images/wods4.jpg" alt="images">
 							<div class="welcome_info">
 								<h3>Retirements</h3>
 								<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
@@ -178,7 +178,7 @@
 					</div>
 				</div>
 			</div> <!-- End right_side -->
-		</section> <!-- End We Are -->
+		</section> <!-- End Who We Are -->
 <!-- ======= /Who We Are ======= -->
 
 <!-- ======= Testimonial & Company Values ======= -->
@@ -192,7 +192,7 @@
 						<div id="owl">
 							<div>
 								<div class="testimonial">									
-									<img class="round_img" src="assets/images/7.jpg" alt="images">
+									<img class="round_img" src="assets/images/testimonial1.jpg" alt="images">
 									<div class="float_right client_info">
 										<p>MeFinance is Great Firm</p>
 										<span>Michale John (CEO & Founder)</span>
@@ -206,11 +206,11 @@
 									</div>
 								</div>
 								<p class="john_speach">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum </p>
-								<img src="images/sign.jpg" alt="images">
+								<img src="assets/images/sign.jpg" alt="images">
 							</div>
 							<div>
 								<div class="testimonial">									
-									<img class="round_img" src="assets/images/7.jpg" alt="images">
+									<img class="round_img" src="assets/images/testimonial2.jpg" alt="images">
 									<div class="float_right client_info">
 										<p>MeFinance is Great Firm</p>
 										<span>Michale John (CEO & Founder)</span>
@@ -223,12 +223,12 @@
 										</ul>
 									</div>
 									<p class="john_speach">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum </p>
-									<img src="images/sign.jpg" alt="images">
+									<img src="assets/images/sign.jpg" alt="images">
 								</div>
 							</div>
 							<div>
 								<div class="testimonial">									
-									<img class="round_img" src="assets/images/7.jpg" alt="images">
+									<img class="round_img" src="assets/images/testimonial3.jpg" alt="images">
 									<div class="float_right client_info">
 										<p>MeFinance is Great Firm</p>
 										<span>Michale John (CEO & Founder)</span>
@@ -242,11 +242,11 @@
 									</div>
 								</div>
 								<p class="john_speach">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est, qui dolorem ipsum </p>
-								<img src="images/sign.jpg" alt="images">
+								<img src="assets/images/sign.jpg" alt="images">
 							</div>
 							<div>
 								<div class="testimonial">									
-									<img class="round_img" src="assets/images/7.jpg" alt="images">
+									<img class="round_img" src="assets/images/testimonial4.jpg" alt="images">
 									<div class="float_right client_info">
 										<p>MeFinance is Great Firm</p>
 										<span>Michale John (CEO & Founder)</span>
@@ -356,167 +356,6 @@
 		</section> <!-- End some_facts -->
 <!-- ======== /Some Facts ======== -->
 
-<!-- ======== Our Advisor ======== -->
-		<section class="our_advisor">
-			<div class="container">
-				<div class="row">
-					<h2>Meet Our Advisors</h2>
-				</div>
-				<div class="row">
-					<div class="col-md-3">
-						<div class="single-advisor">
-							<div class="img-holder">
-								<img src="images/8.jpg" alt="Awesome Image"/>
-								<div class="overlay">
-									<div class="inner">
-										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="content-holder hvr-sweep-to-bottom">
-								<h4>Tim cock</h4>
-								<p>Insurance advisor</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="single-advisor">
-							<div class="img-holder">
-								<img src="images/9.jpg" alt="Awesome Image"/>
-								<div class="overlay">
-									<div class="inner">
-										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="content-holder hvr-sweep-to-bottom">
-								<h4>Tim cock</h4>
-								<p>Insurance advisor</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="single-advisor">
-							<div class="img-holder">
-								<img src="images/10.jpg" alt="Awesome Image"/>
-								<div class="overlay">
-									<div class="inner">
-										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="content-holder hvr-sweep-to-bottom">
-								<h4>Tim cock</h4>
-								<p>Insurance advisor</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3">
-						<div class="single-advisor">
-							<div class="img-holder">
-								<img src="images/11.jpg" alt="Awesome Image"/>
-								<div class="overlay">
-									<div class="inner">
-										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-											<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-											<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="content-holder hvr-sweep-to-bottom">
-								<h4>Tim cock</h4>
-								<p>Insurance advisor</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div> <!-- End container -->
-		</section> <!-- End our_advisor -->
-<!-- ======== /Our Advisor ======== -->
-
-<!-- ======== Latest News ======== -->
-		<section class="p0 container-fluid latest_news_sec news_large">
-			<div class="container">
-				<h2>Latest News</h2>
-			</div>
-			<div class="news_highlight">
-				<div class="col-lg-3 col-md-6 news">
-					<div class="news_img_holder">
-						<img class="img-responsive" src="assets/images/12.jpg" alt="image">
-						<div class="news_opacity">
-						</div>
-						<div class="news_details">
-							<a href="">
-								<span>09.12.2015</span>
-								<h4>Heading of News</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipiscivelit sed quia </p>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 news news_right">
-					<div class="news_img_holder">
-						<img class="img-responsive" src="assets/images/13.jpg" alt="image">
-						<div class="news_opacity">
-						</div>
-						<div class="news_details">
-							<a href="">
-								<span>09.12.2015</span>
-								<h4>Heading of News</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipiscivelit sed quia </p>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 news news_bottom">
-					<div class="news_img_holder">
-						<img class="img-responsive" src="assets/images/14.jpg" alt="image">
-						<div class="news_opacity">
-						</div>
-						<div class="news_details">
-							<a href="">
-								<span>09.12.2015</span>
-								<h4>Heading of News</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipiscivelit sed quia </p>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 news news_right news_bottom">
-					<div class="news_img_holder">
-						<img class="img-responsive" src="assets/images/15.jpg" alt="image">
-						<div class="news_opacity">
-						</div>
-						<div class="news_details">
-							<a href="">
-								<span>09.12.2015</span>
-								<h4>Heading of News</h4>
-								<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipiscivelit sed quia </p>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section> <!-- End latest_news_sec -->
-<!-- ======== /Latest News ======== -->
 
 <!-- ======== Our Partner & Get in touch ======== -->
 		<section class="container-fluid partner_touch_sec">
@@ -566,7 +405,7 @@
 		<section class="container-fluid consultation">
 			<div class="container text-center">
 				<p>If you have any querry for related investment  ... We are available</p>
-				<a href="">Contact us <i class="fa fa-arrow-circle-right"></i></a>
+				<a href="{{url('contactus')}}">Contact us <i class="fa fa-arrow-circle-right"></i></a>
 			</div>
 		</section> <!-- End consultation -->
 <!-- ============ /free consultation ================ -->

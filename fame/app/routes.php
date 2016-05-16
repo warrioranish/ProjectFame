@@ -45,16 +45,6 @@ Route::get("/404page", "HomeController@show404Page");
 
 	Route::get("/faq", "HomeController@showFaq");
 
-Route::get("/projects", "HomeController@showProject");
-	
-	Route::get("/portfolio2", "HomeController@showPortfolio2");
-
-	Route::get("/portfolio3", "HomeController@showPortfolio3");
-
-	Route::get("/portfolio4", "HomeController@showPortfolio4");
-
-	Route::get("/portfolio5", "HomeController@showPortfolio5");
-
 Route::get("/blog", "HomeController@showBlog");
 	
 	Route::get("/blogrightbar", "HomeController@showBlogrightbar");
@@ -65,15 +55,49 @@ Route::get("/blog", "HomeController@showBlog");
 
 	Route::get("/blogdetails", "HomeController@showBlogdetails");
 
-Route::get("/shop", "HomeController@showShop");
+Route::get("/gallery", "HomeController@showGallery");
 	
-	Route::get("/productdetails", "HomeController@showProductdetails");
+	Route::get("/portfolio2", "HomeController@showPortfolio2");
 
-	Route::get("/cartpage", "HomeController@showCartpage");
+	Route::get("/portfolio3", "HomeController@showPortfolio3");
 
-	Route::get("/checkoutpage", "HomeController@showCheckoutpage");
+	Route::get("/portfolio4", "HomeController@showPortfolio4");
+
+	Route::get("/portfolio5", "HomeController@showPortfolio5");
 
 Route::get("/contactus", "HomeController@showContacts");
 
 Route::get("/advisor", "HomeController@showAdvisor");
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=================admin routes======================*/
+
+Route::get("/admin", "HomeController@showAdminhome");
+
+Route::get("/adminaboutus", "HomeController@showAdminaboutus");
+
+Route::get("/adminservices", "HomeController@showAdminservices");
+
+Route::get("/adminstudyabroad", "HomeController@showAdminstudyabroad");
+
+Route::get("/adminblogs", "HomeController@showAdminblogs");
+
+Route::get("/admingallery", "HomeController@showAdmingallery");
+
+
 ?>
+
+
+
+

@@ -30,7 +30,7 @@
 							<h5>Twitter Feeds</h5>
 							<div class="twitter"></div>							
 						</div>
-						<div class="col-lg-3 col-md-2 col-sm-12 part4">
+						<!-- <div class="col-lg-3 col-md-2 col-sm-12 part4">
 							<h5>Flickr Widget</h5>
 							<div class="gallery">
 								<img src="assets/images/f-1.jpg" alt="image">
@@ -40,14 +40,14 @@
 								<img src="assets/images/f-5.jpg" alt="image">
 								<img src="assets/images/f-6.jpg" alt="image">
 							</div>
-						</div>
+						</div> -->
 					</div> <!-- End row -->
 				</div>
 			</div> <!-- End top_footer -->
 			<div class="bottom_footer container-fluid">
 				<div class="container">
-					<p class="float_left">Copyright &copy; MeFinance 2015. All rights reserved. </p>
-					<p class="float_right">Created by: DesignArc</p>
+					<p class="float_left">Copyright &copy; PineSoft 2016. All rights reserved. </p>
+					<p class="float_right">Created by: PineSoft Team</p>
 				</div>
 			</div> <!-- End bottom_footer -->
 		</footer>

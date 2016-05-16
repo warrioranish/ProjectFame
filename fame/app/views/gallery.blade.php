@@ -6,11 +6,11 @@
 			<div class="about_banner_opacity">
 				<div class="container">
 					<div class="banner_info_about">
-						<h1>Projects</h1>
+						<h1>Gallery</h1>
 						<ul>
 							<li><a href="index.html">Home</a></li>
 							<li><i class="fa fa-angle-right"></i></li>
-							<li>Projects</li>
+							<li>gallery</li>
 						</ul>
 						
 					</div> <!-- End Banner Info -->
