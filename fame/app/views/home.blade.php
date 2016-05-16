@@ -15,7 +15,7 @@
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						Applying Appropriate <br>Market Research Solutions
+						Fame international <br>Market Research Solutions
 				    </div>
 					<div class="tp-caption sfb tp-resizeme banner-border" 
 				        data-x="left" data-hoffset="380" 
