@@ -17,11 +17,9 @@
 // });
 
 
-Route::get("/home", "HomeController@showLayout");
-
 Route::get("/home", "HomeController@showHome");
 
-	Route::get("/about", "HomeController@showAbout");
+Route::get("/about", "HomeController@showAbout");
 
 	Route::get("/singleadvisor", "HomeController@showSingleAdvisor");
 
