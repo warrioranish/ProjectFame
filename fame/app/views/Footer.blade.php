@@ -1,4 +1,5 @@
 <!-- ============= Footer ================ -->
+		<!--some changes-->
 		<footer>
 			<div class="top_footer container-fluid">
 				<div class="container">

@@ -16,7 +16,7 @@
 // 	return View::make('hello');
 // });
 
-
+/*named routing used*/
 Route::get("/home", "HomeController@showHome");
 
 Route::get("/about", "HomeController@showAbout");
