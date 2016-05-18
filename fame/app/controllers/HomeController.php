@@ -21,114 +21,109 @@ class HomeController extends BaseController {
 	// 	return View::make('hello');
 	// }
 
-	public function showLayout()
-	{
-		return View::make('layout');
-	}
-
 	public function showHome()
 	{
-		return View::make('home');
+		return View::make('frontend.home');
 	}
 
 	public function showAbout()
 	{
-		return View::make('about');
+		return View::make('frontend.about');
 	}
 
 		public function showSingleAdvisor()
 		{
-			return View::make('singleadvisor');
+			return View::make('frontend.singleadvisor');
 		}
 
 		public function showCareer()
 		{
-			return View::make('career');
+			return View::make('frontend.career');
 		}
 
 		public function showTestimonial()
 		{
-			return View::make('testimonial');
+			return View::make('frontend.testimonial');
 		}
 
 		public function showPartners()
 		{
-			return View::make('partners');
+			return View::make('frontend.partners');
 		}
 
 	public function showService()
 	{
-		return View::make('service');
+		return View::make('frontend.service');
 	}
 
 		public function showService2()
 		{
-			return View::make('service2');
+			return View::make('frontend.service2');
 		}
 
 		public function showPricingpage()
 		{
-			return View::make('pricingpage');
+			return View::make('frontend.pricingpage');
 		}
 
 	public function showBlog()
 	{
-		return View::make('blog');
+		return View::make('frontend.blog');
 	}
 
 		public function showBlogrightbar()
 		{
-			return View::make('blogrightbar');
+			return View::make('frontend.blogrightbar');
 		}
 
 		public function showBlogsinglecol()
 		{
-			return View::make('blogsinglecol');
+			return View::make('frontend.blogsinglecol');
 		}
 
 		public function showBlog2col()
 		{
-			return View::make('blog2col');
+			return View::make('frontend.blog2col');
 		}
 
 		public function showBlogdetails()
 		{
-			return View::make('blogdetails');
+			return View::make('frontend.blogdetails');
 		}
 
 	public function showGallery()
 	{
-		return View::make('gallery');
+		return View::make('frontend.gallery');
 	}
 
 		public function showPortfolio2()
 		{
-			return View::make('portfolio2');
+			return View::make('frontend.portfolio2');
 		}
 
 		public function showPortfolio3()
 		{
-			return View::make('portfolio3');
+			return View::make('frontend.portfolio3');
 		}
 
 		public function showPortfolio4()
 		{
-			return View::make('portfolio4');
+			return View::make('frontend.portfolio4');
 		}
 
 		public function showPortfolio5()
 		{
-			return View::make('portfolio5');
+			return View::make('frontend.portfolio5');
 		}
 		
 	public function showContacts()
 	{
-		return View::make('contactus');
+		return View::make('frontend.contactus');
 	}
 
 	public function showAdvisor()
 	{
-		return View::make('advisor');
+		return View::make('frontend.advisor');
 	}
 
 
@@ -140,32 +135,32 @@ class HomeController extends BaseController {
 
 	public function showAdminhome()
 	{
-		return View::make('adminhome');
+		return View::make('backend.adminhome');
 	}
 
 	public function showAdminaboutus()
 	{
-		return View::make('adminhome');
+		return View::make('backend.adminaboutus');
 	}
 
 	public function showAdminservices()
 	{
-		return View::make('adminhome');
+		return View::make('backend.adminservices');
 	}
 
 	public function showAdminstudyabroad()
 	{
-		return View::make('adminhome');
+		return View::make('backend.adminstudyabroad');
 	}
 
 	public function showAdminblogs()
 	{
-		return View::make('adminhome');
+		return View::make('backend.adminblogs');
 	}
 
 	public function showAdmingallery()
 	{
-		return View::make('adminhome');
+		return View::make('backend.admingallery');
 	}
 
 
