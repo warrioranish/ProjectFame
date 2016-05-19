@@ -24,7 +24,7 @@
 				<div class="container clear_fix">
 					<div class="float_left logo">
 						<a href="{{url('home')}}">
-							<img src="assets/images/logo.png" alt="Me Finance">
+							<img src="{{URL::asset('assets/images/logo.png')}}" alt="Me Finance">
 						</a>
 					</div>
 					<div class="float_right address">
@@ -75,18 +75,18 @@
 								<div class="sub-menu">
 									<ul>
 										<li><a href="{{url('advisor')}}">Advisor</a></li>
-										<li><a href="{{url('singleadvisor')}}">Single Advisor</a></li>
-										<li><a href="{{url('career')}}">Career</a></li>
-										<li><a href="{{url('testimonial')}}">Testimonaials</a></li>
-										<li><a href="{{url('partners')}}">partners</a></li>
+										<li><a href="{{route('singleadvisor')}}">Single Advisor</a></li>
+										<li><a href="{{route('career')}}">Career</a></li>
+										<li><a href="{{route('testimonial')}}">Testimonaials</a></li>
+										<li><a href="{{route('partners')}}">partners</a></li>
 									</ul>
 								</div>
 							</li>
 							<li class="arrow_down"><a href="{{url('service')}}">Services</a>
 								<div class="sub-menu">
 									<ul>
-										<li><a href="{{url('service2')}}">Service Two</a></li>
-										<li><a href="{{url('pricingpage')}}">Pricing Page</a></li>
+										<li><a href="{{route('service2')}}">Service Two</a></li>
+										<li><a href="{{route('pricingpage')}}">Pricing Page</a></li>
 									</ul>
 								</div>
 							</li>
@@ -97,20 +97,20 @@
 							<li class="arrow_down" ><a href="{{url('blog')}}">Blogs</a>
 								<div class="sub-menu">
 									<ul>
-										<li><a href="{{url('blog')}}">Blog Left Bar</a></li>
-										<li><a href="{{url('blogrightbar')}}">Blog Right Bar</a></li>
-										<li><a href="{{url('blog2col')}}">Blog Two Col</a></li>
-										<li><a href="{{url('blogdetails')}}">Blog Details</a></li>
+										<li><a href="{{route('blogsinglecol')}}">Blog Left Bar</a></li>
+										<li><a href="{{route('blogrightbar')}}">Blog Right Bar</a></li>
+										<li><a href="{{route('blog2col')}}">Blog Two Col</a></li>
+										<li><a href="{{route('blogdetails')}}">Blog Details</a></li>
 									</ul>
 								</div>
 							</li>
 							<li class="arrow_down" ><a href="{{url('gallery')}}">Gallery</a>
 								<div class="sub-menu">
 									<ul>
-										<li><a href="{{url('portfolio2')}}">Gallery1</a></li>
-										<li><a href="{{url('portfolio3')}}">Gallery2</a></li>
-										<li><a href="{{url('portfolio4')}}">Gallery3</a></li>
-										<li><a href="{{url('portfolio5')}}">Gallery4</a></li>
+										<li><a href="{{route('portfolio2')}}">Gallery1</a></li>
+										<li><a href="{{route('portfolio3')}}">Gallery2</a></li>
+										<li><a href="{{route('portfolio4')}}">Gallery3</a></li>
+										<li><a href="{{route('portfolio5')}}">Gallery4</a></li>
 									</ul>
 								</div>
 							</li>
