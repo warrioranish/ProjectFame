@@ -114,18 +114,19 @@ Route::get('/advisor', 'HomeController@showAdvisor');
 
 
 /*=================admin routes======================*/
+Route::get('/adminlogin', 'HomeController@showAdminLogin');
 
-Route::get("/admin", "HomeController@showAdminhome");
+Route::get('/adminhome', 'HomeController@showAdminhome');
 
-Route::get("/adminaboutus", "HomeController@showAdminaboutus");
+Route::get('/adminaboutus', 'HomeController@showAdminaboutus');
 
-Route::get("/adminservices", "HomeController@showAdminservices");
+Route::get('/adminservices', 'HomeController@showAdminservices');
 
-Route::get("/adminstudyabroad", "HomeController@showAdminstudyabroad");
+Route::get('/adminstudyabroad', 'HomeController@showAdminstudyabroad');
 
-Route::get("/adminblogs", "HomeController@showAdminblogs");
+Route::get('/adminblogs', 'HomeController@showAdminblogs');
 
-Route::get("/admingallery", "HomeController@showAdmingallery");
+Route::get('/admingallery', 'HomeController@showAdmingallery');
 
 
 ?>

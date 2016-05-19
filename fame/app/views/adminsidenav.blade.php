@@ -115,7 +115,7 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="{{url('admin')}}"><i class="fa fa-fw fa-home"></i> Home</a>
+                        <a href="{{url('adminhome')}}"><i class="fa fa-fw fa-home"></i> Home</a>
                     </li>
                     <li>
                         <a href="{{url('adminaboutus')}}"><i class="fa fa-fw fa-table"></i> Aboutus</a>

@@ -132,6 +132,9 @@ class HomeController extends BaseController {
 
 
 	/*===================admin controllers==================*/
+	public function showAdminLogin(){
+		return View::make('adminlogin');
+	}
 
 	public function showAdminhome()
 	{
