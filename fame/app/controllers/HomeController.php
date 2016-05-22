@@ -36,9 +36,9 @@ class HomeController extends BaseController {
 		return View::make('about');
 	}
 
-		public function showSingleAdvisor()
+		public function showChairman()
 		{
-			return View::make('singleadvisor');
+			return View::make('chairman');
 		}
 
 		public function showCareer()
@@ -126,9 +126,9 @@ class HomeController extends BaseController {
 		return View::make('contactus');
 	}
 
-	public function showAdvisor()
+	public function showIntroduction()
 	{
-		return View::make('advisor');
+		return View::make('introduction');
 	}
 
 

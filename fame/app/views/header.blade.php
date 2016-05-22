@@ -73,11 +73,11 @@
 							<li class="arrow_down"><a href="{{url('about')}}">About Us</a>
 								<div class="sub-menu">
 									<ul>
-										<li><a href="{{url('advisor')}}">Advisor</a></li>
-										<li><a href="{{url('singleadvisor')}}">Single Advisor</a></li>
+										<li><a href="{{url('introduction')}}">Introduction</a></li>
+										<li><a href="{{url('chairman')}}">Chairman Message</a></li>
 										<li><a href="{{url('career')}}">Career</a></li>
 										<li><a href="{{url('testimonial')}}">Testimonaials</a></li>
-										<li><a href="{{url('partners')}}">partners</a></li>
+										<li><a href="{{url('partners')}}">Our Team</a></li>
 									</ul>
 								</div>
 							</li>
@@ -117,7 +117,7 @@
 						</ul>						
 					</div>
 					<div class="find-advisor pull-right">
-						<a href="{{url('advisor')}}" class="advisor ">Find Advisor</a>
+						<a href="{{url('chairman')}}" class="advisor ">Find Members</a>
 					</div>
 				</nav> <!-- End Nav -->
 			</div> <!-- End Container -->

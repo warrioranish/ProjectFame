@@ -6,11 +6,11 @@
 			<div class="about_banner_opacity">
 				<div class="container">
 					<div class="banner_info_about">
-						<h1>Advisors</h1>
+						<h1>Chairman</h1>
 						<ul>
 							<li><a href="index.html">Home</a></li>
 							<li><i class="fa fa-angle-right"></i></li>
-							<li>Advisors</li>
+							<li>chairman</li>
 						</ul>
 					</div> <!-- End Banner Info -->
 				</div> <!-- End Container -->
@@ -22,8 +22,26 @@
 		<section class="our_advisor_inner_sec">
 			<div class="container">
 				<div class="row advisor_inner_title">
-					<h2>Meet Our Advisors</h2>
-					<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem</p>
+					<h2>Message from Chairman</h2>
+					<br><font align ="right">Dear students and parents,</font>
+ 
+
+ <p>
+ 	<font size ="4">It gives me pleasure to introduce you about Fame International Education and its concrete plannning in academic field. It is developed by the seasoned personalities in academic field.We are planning to make it essential platform for the students to fulfil their academic quest. For this we are offering entrance preparation course for SLC and 10+2 graduate in order to develop their confidence and familiarize technical and academic nuances. Besides we also assist and facilitate aspirants of abroad studies and public service commission</p>
+
+ 	<p>
+ 		Education enhances the latent talents of person and prepares them to cope of with challenges of life. So it leads them to successful career and better adjustment in society dealing with personal as well as social problems. We are living in the era of science and technology. The inventions and discoveries of the recent world offer prospectus, opportunities and challenges in rapid manner. We try to ssist our students to walk with the speed and prospects of the ages.
+ 	</p>
+ 
+ <p>
+ 	  The path of specializaton begins after SLC in our context. Many SLC graduate aspire to study Science and Management in 10+2 level. There is tough competition for enrollment in good colleges. So, Fame International Education introduces an innovative course to SLC appeared students. The course is designed for result awaiting students by renownrd professionals from the reputed schools and colleges. Experienced and dedicated faculty, sound academic environment, and career councelling, well-equipped computer lab,best teaching materials are also the valuable assets of the institution which,in reality,help to bridge the students in higher education.
+
+ 	<p>
+ 		Obstacles are everywhere in our life but we should change them into oppourtunities through skillfull manners. Our strong determinism will make you able to step up in most reputed colleges in Pokhara and Kathmandu. We assure students that we will provide the best quality which enables you to get admission in reputed colleges. Lastly, I would like to welcome all parents, students and guardians who have any enquiries to visit the office and take your decision.</p>
+
+ 		<font align="left" > Wishing the very best to all of you for  your bright future.</font>
+ 	 
+ </p>
 				</div>
 			</div>
 			<div class="container-fluid"> <!-- For background-color -->

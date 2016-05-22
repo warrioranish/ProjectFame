@@ -5,11 +5,11 @@
 			<div class="about_banner_opacity">
 				<div class="container">
 					<div class="banner_info_about">
-						<h1>Single Advisor</h1>
+						<h1>Introduction</h1>
 						<ul>
 							<li><a href="index.html">Home</a></li>
 							<li><i class="fa fa-angle-right"></i></li>
-							<li>Single Advisor</li>
+							<li>Introduction</li>
 						</ul>
 						
 					</div> <!-- End Banner Info -->
@@ -17,6 +17,7 @@
 			</div> <!-- End Banner_opacity -->
 		</section> <!-- End Banner -->
 <!-- =============== /Banner =============== -->
+
 
 <!-- =============== Michale John =============== -->
 		<section class="advisor_name container">
@@ -26,8 +27,8 @@
 					<img class="img-responsive" src="assets/images/shadow.png" alt="image">
 				</div>
 				<div class="col-lg-8 col-md-8 advisor_contact_info">
-					<h4>Michale John</h4>
-					<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit.</p>
+					<h4>Tilak Lamichhane</h4>
+					<p>This is the institute which guareente the 100% good result  .</p>
 					<ul>
 						<li><i class="fa fa-phone"></i> + 91 865 9575 963</li>
 						<li><i class="fa fa-envelope-o"></i><a href="mailto:john@mefinance.com">john@mefinance.com</a></li>
@@ -50,8 +51,10 @@
 						<h2>Professional Experiences</h2>
 					</div>
 					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-						<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? <br> <br>
-						<span>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,</span>
+						<p>Oprah’s dealt with a lot throughout her public life—criticism about her weight, racism, intrusive questions about her sexuality, just to name a few—but she never let it get in the way of her ambition and drive. When you look at her childhood, her personal triumphs are cast in an even more remarkable light.
+
+Growing up, Oprah was reportedly a victim of sexual abuse and was repeatedly molested by her cousin, an uncle, and a family friend. Later, she became pregnant and gave birth to a child at age 14, who passed away just two weeks later. But Oprah persevered, going on to finish high school as an honors student, earning a full scholarship to college, and working her way up through the ranks of television, from a local network anchor in Nashville to an international superstar and creator of her OWN network (we couldn’t help ourselves).<br> <br>
+						<span>Nemo enivoluptatem quia voluptas sit aspernatur aut odit aut fugit,</span>
 						sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
 					</div>
 				</div>

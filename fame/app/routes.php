@@ -23,7 +23,7 @@ Route::get("/home", "HomeController@showHome");
 
 	Route::get("/about", "HomeController@showAbout");
 
-	Route::get("/singleadvisor", "HomeController@showSingleAdvisor");
+	Route::get("/chairman", "HomeController@showChairman");
 
 	Route::get("/career", "HomeController@showCareer");
 
@@ -67,7 +67,7 @@ Route::get("/gallery", "HomeController@showGallery");
 
 Route::get("/contactus", "HomeController@showContacts");
 
-Route::get("/advisor", "HomeController@showAdvisor");
+Route::get("/introduction", "HomeController@showIntroduction");
 
 
 
